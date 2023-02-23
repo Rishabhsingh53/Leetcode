@@ -38,6 +38,7 @@ public:
 };
 
 /*
+Explanation
 The method first checks if the head of the linked list is null, or if there is only one element in the list, or if k is 0, then it returns the head itself as there is no rotation required.
 
 Then, it counts the length of the linked list using a variable len and a loop that iterates until the end of the list is reached.
