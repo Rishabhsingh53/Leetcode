@@ -2,6 +2,7 @@
 Partition List 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 """
+
 """
 Intitution:
 The idea is to obtain the maximum profit we buy on the day where the stock is minimum and sell on the day where the profit from minimum is maximum.
