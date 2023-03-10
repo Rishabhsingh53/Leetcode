@@ -1,5 +1,5 @@
 /* 
-287. Find the Duplicate Number https://leetcode.com/problems/find-the-duplicate-number/
+287. Find the Index of the First Occurrence in a String.
 
 Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
 There is only one repeated number in nums, return this repeated number.
