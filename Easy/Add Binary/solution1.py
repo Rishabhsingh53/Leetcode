@@ -53,5 +53,3 @@ def addBinary(a,b):
         i -= 1 
         j -= 1 
     return ans[::-1]
-
-print(addBinary("10","10"))
