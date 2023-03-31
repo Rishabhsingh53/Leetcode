@@ -23,6 +23,8 @@ Algorithm
 1. In every row we will check if queen can be placed in any of the column if yes then place it 
 2. Move to next row 
 3. If it is not possible then back track to previous function and remove the queen from that place and again iterate for the position  
+4. Before placing check for the column, left diagonal and right diagonal
+5. Base case is very straight forward if we have placed all the queens then add the board in the result 
 """
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
