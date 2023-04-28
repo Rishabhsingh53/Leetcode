@@ -18,6 +18,7 @@ Algorithm:
   Move the pointer that is pointing to the shorter bar towards the center.
   Once the two pointers meet, return the total water trapped.
 */
+
 class Solution {
 public:
     int trap(vector<int>& arr) {
